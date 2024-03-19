@@ -99,9 +99,9 @@ $iCloudDriveFolder = "C:\Users\*\iCloudDrive\RDP"  # Ensure this path is correct
 Clear-ICloudDriveFolder -FolderPath $iCloudDriveFolder
 
 $rdpFiles = @(
-    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1234}, # Ensure these values are correct
-    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1235}, # Ensure these values are correct
-    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1236}  # Ensure these values are correct
+    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1234}, # Ensure these values are the correct values of the Remote OS
+    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1235}, # Ensure these values are the correct values of the Remote OS
+    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1236}  # Ensure these values are the correct values of the Remote OS
 )
 
 foreach ($file in $rdpFiles) {
