@@ -2,11 +2,12 @@
 .SYNOPSIS
 
 This PowerShell script is designed to simplify remote desktop access by automatically generating and managing Remote Desktop Protocol (RDP) files. Here's how it functions:
-1. **Clearing the iCloud Drive Folder**: Initially, it checks and clears any existing RDP files from a specified iCloud Drive folder to prevent duplication and ensure only the most current configurations are stored.
-2. **Retrieving Public IP Address**: It fetches the current public IP address of the machine using an external API, a crucial step for setting up RDP connections over the internet.
-3. **Generating RDP Files**: The script creates RDP file contents, incorporating the public IP, a designated port number, and user credentials (username and password), which are essential for remote access.
-4. **Uploading to iCloud Drive**: The generated RDP files, named after a predefined "FriendlyName," are then uploaded to a specific iCloud Drive folder. This process facilitates easy access to RDP files across various devices, streamlining remote connections.
-5. **Checking for RDP File Updates**: After uploading, the script periodically checks to ensure the RDP files are successfully updated in the iCloud Drive folder, using the presence of the file as confirmation.
+
+Initially, it checks and clears any existing RDP files from a specified iCloud Drive folder to prevent duplication and ensure only the most current configurations are stored.
+It fetches the current public IP address of the machine using an external API, a crucial step for setting up RDP connections over the internet.
+The script creates RDP file contents, incorporating the public IP, a designated port number, and user credentials (username and password), which are essential for remote access.
+The generated RDP files, named after a predefined "FriendlyName," are then uploaded to a specific iCloud Drive folder. This process facilitates easy access to RDP files across various devices, streamlining remote connections.
+After uploading, the script periodically checks to ensure the RDP files are successfully updated in the iCloud Drive folder, using the presence of the file as confirmation.
 
 The script is structured for ease of use and automation, aiming to facilitate a seamless setup for remote desktop connections by managing RDP files effectively. It emphasizes the importance of manually adjusting the iCloud Drive folder path to match the user's system configuration and calls for caution regarding security practices, particularly the handling of user credentials and the use of port forwarding.#>
 #>
