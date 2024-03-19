@@ -2,11 +2,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     const element = document.getElementById('typing2');
     const textToType = 'THANK YOU FOR PLAYING';
-    const terminalInput = document.getElementById('terminalInput');
-    const submitButton = document.getElementById('submitCode');
-    const output = document.getElementById('output');
-    const terminal = document.querySelector('.terminal');
-    const correctCode = "cmd/:>/enter3entley"; // Replace with your actual code
 
     element.innerText = ''; // Clear the existing text
     let index = 0;
