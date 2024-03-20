@@ -5,3 +5,4 @@
 | **Storage**      | 1TB M.2 SSD                     | 100GB allocated               |
 | **Graphics Card**| Nvidia GTX 1650                 | Not Applicable (unless using GPU passthrough) |
 | **Network Adapter** | IP: 192.168.2.12 | IP: 192.168.2.21 |
+| Services | Hyper-V Management | IIS, ADDS |
