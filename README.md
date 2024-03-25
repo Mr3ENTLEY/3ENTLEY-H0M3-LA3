@@ -8,4 +8,6 @@ Guest systems are currently limited to 1 Windows Server running the IIS Role for
 
 Within this repository, I have multiple directories for easier navigation and simplicity. Catagories first reference the OS Manufacture. "Microsoft" for Windows and more. Sub catagories are named by the software or protocol used by the manufacturers OS. Names like "Powershell", "RDP" or "IIS" are protocols and software names of Microsoft server roles and features.
 
+The Config folder contains the configuration of the Lab environment. This includes the host hardwre and guest hardware configruarions. This doc also mentions the services running on the respective machines. 
+
 
