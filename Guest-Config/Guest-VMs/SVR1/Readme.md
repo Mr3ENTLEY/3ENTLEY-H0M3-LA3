@@ -2,7 +2,6 @@
 
 ## Overview
 
-
 ## Hardware
 
 | Component           | Hardware Name         |
@@ -16,9 +15,9 @@
 
 ## Software
 
-| Sofware Name                        | Description           |
-| ----------------------------------- | --------------------- |
-| **Active Direcotry Domain Servies** | 2 Cores               |
-|  |  |
+| Sofware Name                        | Description                                                                          |
+| ----------------------------------- | ------------------------------------------------------------------------------------ |
+| **Active Direcotry Domain Servies** | Used to host and manage the "Dom.com" domain for testing within my local environment |
+
 
 ## Notes
