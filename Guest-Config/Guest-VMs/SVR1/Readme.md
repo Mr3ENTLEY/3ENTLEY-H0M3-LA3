@@ -1,6 +1,9 @@
 # SVR1 CONFIGURATION
 
-### Hardware
+## Overview
+
+
+## Hardware
 
 | Component           | Hardware Name         |
 | ------------------- | --------------------- |
@@ -11,9 +14,11 @@
 
 ---
 
-### Software
+## Software
 
 | Sofware Name                        | Description           |
 | ----------------------------------- | --------------------- |
 | **Active Direcotry Domain Servies** | 2 Cores               |
 |  |  |
+
+## Notes
