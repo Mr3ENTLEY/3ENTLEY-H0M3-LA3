@@ -18,6 +18,6 @@
 | Sofware Name                        | Description                                                                          |
 | ----------------------------------- | ------------------------------------------------------------------------------------ |
 | **Active Direcotry Domain Servies** | Used to host and manage the "Dom.com" domain for testing within my local environment |
-
+| ** Ki-Wiki** | Used to host a "offline" internet experiance on a local network | 
 
 ## Notes
