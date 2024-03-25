@@ -1,1 +1,8 @@
-test
+# KALI
+
+## Hardware 
+
+## Software 
+
+## Notes
+
