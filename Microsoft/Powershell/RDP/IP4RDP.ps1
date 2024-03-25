@@ -22,10 +22,12 @@ function Clear-ICloudDriveFolder {
             # Get all files in the folder and delete them
             Get-ChildItem -Path $FolderPath -Filter "*.rdp" | ForEach-Object { Remove-Item $_.FullName -Force }
             Write-Host "All previous RDP files in the iCloud Drive folder have been deleted."
-        } else {
+        }
+        else {
             Write-Host "The specified iCloud Drive folder does not exist."
         }
-    } catch {
+    }
+    catch {
         Write-Host "Failed to clear the iCloud Drive folder: $_"
     }
 }
@@ -34,7 +36,8 @@ function Get-PublicIPAddress {
     try {
         $publicIp = Invoke-RestMethod -Uri "https://api.ipify.org" -UseBasicParsing
         return $publicIp
-    } catch {
+    }
+    catch {
         Write-Host "Failed to retrieve public IP address: $_"
         return $null
     }
@@ -67,7 +70,8 @@ function Upload-ToICloudDrive {
         $rdpFilePath = Join-Path -Path $iCloudDriveFolder -ChildPath $rdpFileName
         $Content | Set-Content -Path $rdpFilePath -Encoding ASCII
         Write-Host "RDP configuration file ($FriendlyName) uploaded to iCloud Drive as $rdpFileName"
-    } catch {
+    }
+    catch {
         Write-Host "Failed to upload RDP configuration file: $_"
     }
 }
@@ -82,7 +86,8 @@ function Check-RDPFileUpdate {
         $rdpFilePath = Join-Path -Path $iCloudDriveFolder -ChildPath $rdpFileName
         $fileExists = Test-Path $rdpFilePath
         return $fileExists
-    } catch {
+    }
+    catch {
         Write-Host "Failed to check RDP file ($FriendlyName) update: $_"
         return $false
     }
@@ -99,9 +104,9 @@ $iCloudDriveFolder = "C:\Users\*\iCloudDrive\RDP"  # Ensure this path is correct
 Clear-ICloudDriveFolder -FolderPath $iCloudDriveFolder
 
 $rdpFiles = @(
-    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1234}, # Ensure these values are the correct values of the Remote OS
-    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1235}, # Ensure these values are the correct values of the Remote OS
-    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1236}  # Ensure these values are the correct values of the Remote OS
+    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1234 }, # Ensure these values are the correct values of the Remote OS
+    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1235 }, # Ensure these values are the correct values of the Remote OS
+    @{FriendlyName = "*"; Username = "*"; Password = "*"; Port = 1236 }  # Ensure these values are the correct values of the Remote OS
 )
 
 foreach ($file in $rdpFiles) {
