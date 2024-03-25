@@ -2,30 +2,6 @@
 
 This repository contains the configurations and documentation for the 3ENTLEY-H0M3-LA3 HomeLab environment. Below is an overview of the directory structure and contents.
 
-## Directory Structure
-
-3ENTLEY-H0M3-LA3
-│
-├── Guest-Config
-│ ├── Readme.md
-│ ├── ...
-│
-├── Microsoft
-│ ├── IIS
-│ │ ├── Readme.md
-│ │ └── ...
-│ ├── Powershell_RDP
-│ │ ├── IP4RDP.PS1
-│ │ └── ...
-│ └── ...
-│
-├── Self-Hosting
-│ ├── Config.md
-│ └── ...
-│
-└── Host-Config
-├── Hardware-Config.md
-└── ...
 
 ## Overview
 
