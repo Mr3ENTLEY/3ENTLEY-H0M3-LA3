@@ -2,10 +2,9 @@
 
 This repository contains the configurations and documentation for the 3ENTLEY-H0M3-LA3 HomeLab environment. Below is an overview of the directory structure and contents.
 
----
 
 ## Overview
----
+
 ### [Host-Config](https://github.com/Mr3ENTLEY/3ENTLEY-H0M3-LA3/tree/main/Host-Config)
 Information about the host machine's hardware configuration and setup.
 
