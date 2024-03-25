@@ -1,8 +1,5 @@
 # Self-Hosting Configuration 
 
-## Hardware
-
-
-
-## Software
+| Guest VM | Software Name | OS |
+| -------- | ------------- | -- |
 
