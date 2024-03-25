@@ -5,6 +5,9 @@ This repository contains the configurations and documentation for the 3ENTLEY-H0
 
 ## Overview
 
+### Host-Config
+Information about the host machine's hardware configuration and setup.
+
 ### Guest-Config
 Configuration files and documentation related to guest operating systems and services.
 
@@ -17,10 +20,6 @@ Configurations and scripts related to Microsoft services including:
 ### Self-Hosting
 Documentation and configuration files for self-hosted applications and services.
 
-### Host-Config
-Information about the host machine's hardware configuration and setup.
-
 ---
-
 For more detailed information, refer to the `Readme.md` or documentation within each subdirectory.
 
