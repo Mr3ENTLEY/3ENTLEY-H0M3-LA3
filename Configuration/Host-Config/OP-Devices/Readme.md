@@ -1,6 +1,5 @@
-# OP-DEVICE CONFIGURATION
+# ON PREM DEVICE CONFIGURATION
 
-## Overview
 This file contains the overview for each On Premise device hosted in my environment. The OP devices host the VMs which run in the environment. Below is a basic hardware overview of each device. 
 
 ## Asus ROG Strix G531GT
@@ -12,7 +11,7 @@ This file contains the overview for each On Premise device hosted in my environm
 | **Arch**            | x64                                                        |
 | **Storage**         | 1TB M.2 SSD                                                |
 | **Graphics Card**   | Nvidia GTX 1650                                            |
-| **Network Adapter** | Eth0 ~ WiFi1 IP: 192.168.2.12                              |
+| **Network Adapter** | Eth0 ~ WiFi1                                               |
 | **Services**        | Hyper-V Management Service                                 |
 
 
@@ -25,5 +24,5 @@ This file contains the overview for each On Premise device hosted in my environm
 | **Arch**            | x64                                                        |
 | **Storage**         | 500GB M.2 SSD (boot), Seagate 4TB external SSD (storage)   |
 | **Graphics Card**   | Intel UHD Graphics 630                                     |
-| **Network Adapter** | IP: 192.168.2.14                                           |
+| **Network Adapter** | WiFi                                                       |
 | **Services**        | Active Directory Services, IIS, File Sharing               |
