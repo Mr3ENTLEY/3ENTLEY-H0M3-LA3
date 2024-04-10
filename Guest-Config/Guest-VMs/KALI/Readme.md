@@ -1,8 +1,0 @@
-# KALI
-
-## Hardware 
-
-## Software 
-
-## Notes
-
