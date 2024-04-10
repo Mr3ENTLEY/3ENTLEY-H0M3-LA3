@@ -1,4 +1,7 @@
-# HOST CONFIGURATION
+# OP-DEVICE CONFIGURATION
+
+## Overview
+This file contains the overview for each On Premise device hosted in my environment. The OP devices host the VMs which run in the environment. Below is a basic hardware overview of each device. 
 
 ## Asus ROG Strix G531GT
 
