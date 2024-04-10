@@ -14,7 +14,6 @@ This file contains the overview for each On Premise device hosted in my environm
 | **Network Adapter** | Eth0 ~ WiFi1                                               |
 | **Services**        | Hyper-V Management Service                                 |
 
-
 ## Dell Inspiron 3670
 
 | Component           | Hardware Name                                              |
@@ -26,3 +25,5 @@ This file contains the overview for each On Premise device hosted in my environm
 | **Graphics Card**   | Intel UHD Graphics 630                                     |
 | **Network Adapter** | WiFi                                                       |
 | **Services**        | Active Directory Services, IIS, File Sharing               |
+
+---
