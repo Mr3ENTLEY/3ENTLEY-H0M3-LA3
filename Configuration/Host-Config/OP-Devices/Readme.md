@@ -27,9 +27,3 @@ Welcome to the central documentation for all on-premises devices within my home 
 | **Services**        | Active Directory, IIS, File Sharing    | Central identity services, web hosting, and network storage capabilities. |
 
 ---
-
-**Network Configuration Overview**:
-
-_To be added soon, outlining the network topology, addressing, and any specific configurations such as VLANs or firewall rules._
-
-Please ensure to visit each device's specific folder for more in-depth configuration details, service descriptions, and role within the home lab environment.
