@@ -26,10 +26,4 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 ---
 
-**Future Sections**:
-
-- **Network Configuration**: A section detailing the network infrastructure, including topology, IP schemes, and security measures, will be added for a deeper understanding of interconnectivity in the lab.
-- **Security Practices**: Documentation on implemented security practices, such as firewall configurations and endpoint protection strategies, will be provided to underscore the lab's commitment to security.
-- **Service Catalog**: An expanded catalog of all services, including databases, web applications, and development tools, along with their configurations, will be provided for comprehensive coverage of the lab's capabilities.
-
 For the most current and detailed information, ensure to navigate to the specific folders dedicated to each device or service.
