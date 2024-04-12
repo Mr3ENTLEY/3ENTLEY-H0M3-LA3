@@ -2,7 +2,7 @@
 
 Welcome to the central documentation for all on-premises devices within my home lab environment. These devices serve as hosts for the virtual machines that constitute the lab's infrastructure. Below is a detailed overview of each device's hardware configuration, along with a brief description of its role and the services it supports within the network.
 
-## Asus ROG Strix G531GT - Virtualization Workhorse
+## Asus ROG Strix G531GT
 
 | Component           | Specification                           | Description                                               |
 | ------------------- | --------------------------------------- | --------------------------------------------------------- |
@@ -14,7 +14,9 @@ Welcome to the central documentation for all on-premises devices within my home 
 | **Network Adapter** | Ethernet, WiFi                          | Dual connectivity options for flexible network integration.|
 | **Services**        | Hyper-V Management                      | Manages and orchestrates VMs for various lab scenarios.   |
 
-## Dell Inspiron 3670 - Core Services Provider
+---
+
+## Dell Inspiron 3670
 
 | Component           | Specification                           | Description                                               |
 | ------------------- | --------------------------------------- | --------------------------------------------------------- |
