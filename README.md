@@ -22,8 +22,6 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 # Device Configuration
 
-Welcome to the central documentation for all on-premises devices within my home lab environment. These devices serve as hosts for the virtual machines that constitute the lab's infrastructure. Below is a detailed overview of each device's hardware configuration, along with a brief description of its role and the services it supports within the network.
-
 ## Dell Inspiron 3670 - Core Services Provider
 
 | Component           | Specification                           | Description                                               |
