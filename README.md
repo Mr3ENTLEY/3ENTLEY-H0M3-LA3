@@ -38,7 +38,7 @@ Welcome to the central documentation for all on-premises devices within my home 
 | **Storage**         | 500GB M.2 SSD (bm), Seagate 4TB external SSD (sm) | Dedicated boot drive and expansive storage for backups and file sharing. |
 | **Graphics Card**   | Intel UHD Graphics 630                  | Provides basic video output for management and troubleshooting.  |
 | **Network Adapter** | Wi-Fi & Ethernet                        | Wireless connectivity for flexible placement and redundancy. |
-| **Services**        | Active Directory, IIS, File Sharing     | Central identity services, web hosting, and network storage capabilities. |
+| **Services**        | Active Directory                        | Central identity services, web hosting, and network storage capabilities. |
 
 ---
 
@@ -53,5 +53,5 @@ Welcome to the central documentation for all on-premises devices within my home 
 | **Graphics Card**   | Intel UHD Graphics 630                  | Provides basic video output for management and troubleshooting. |
 | **Graphics Card 2** | NVIDIA GeForce GTX 1650                 | Provides basic video output for management and troubleshooting. |
 | **Network Adapter** | Wi-Fi & Ethernet                        | Wireless connectivity for flexible placement and redundancy. |
-| **Services**        | Remote Desktop, LLM host                | Allows for remote connection to the domain | 
+| **Services**        | Remote Desktop, LM Studio, Node.js server. | Allows for remote connection to the domain | 
 
