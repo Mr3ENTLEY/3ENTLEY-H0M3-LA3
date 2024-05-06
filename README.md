@@ -12,6 +12,16 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 **Benefits**: With AD, experimentation is encouraged, enabling the refinement of skills without the risk associated with production environments, such as data loss or service disruption.
 
+### Node.js
+
+**Purpose**: 
+**Benefits**:
+
+### LM Studio
+
+**Purpose**:
+**Benefits**:
+
 --
 
 # Device Configuration
