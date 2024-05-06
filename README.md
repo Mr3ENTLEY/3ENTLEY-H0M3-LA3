@@ -12,18 +12,6 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 **Benefits**: With AD, experimentation is encouraged, enabling the refinement of skills without the risk associated with production environments, such as data loss or service disruption.
 
-### File Sharing & Backups
-
-**Purpose**: The File Sharing and Backup service ensures that all devices, whether domain-joined or not, can backup their data seamlessly. It doubles as a media sharing hub, centralizing access to shared resources across the network.
-
-**Benefits**: This setup reflects real-world scenarios where mixed environments exist, demonstrating domain integration and non-domain access strategies.
-
-### IIS Web Services
-
-**Purpose**: IIS Web Services support the hosting and management of web applications within the lab. This includes configuring websites, managing security certificates, and understanding application pools.
-
-**Benefits**: Hands-on experience with IIS equips you with the knowledge to deploy and manage web applications and services securely and efficiently, reflecting the responsibilities of a web server administrator.
-
 --
 
 # Device Configuration
