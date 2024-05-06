@@ -14,15 +14,11 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 ### Node.js
 
-**Purpose**: 
-**Benefits**:
 
 ### LM Studio
 
-**Purpose**:
-**Benefits**:
 
---
+--- 
 
 # Device Configuration
 
