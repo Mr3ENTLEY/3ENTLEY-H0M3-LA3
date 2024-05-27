@@ -22,6 +22,21 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 # Device Configuration
 
+## Asus Rog Strix G531GT - Powerhouse 
+
+| Component           | Specification                           | Description                                               |
+| ------------------- | --------------------------------------- | --------------------------------------------------------- |
+| **CPU**             | Intel Core i5-9300H (2.4GHz, 4 cores 8 logical processors) |
+| **RAM**             | 32GB DDR4 (dual-channel)                | |
+| **Architecture**    | x64                                     | |
+| **Storage**         | 500GB M.2 SSD (bm), SanDisk 2TB external SSD (sm) | |
+| **Graphics Card**   | Intel UHD Graphics 630                  | |
+| **Graphics Card 2** | NVIDIA GeForce GTX 1650                 | |
+| **Network Adapter** | Wi-Fi & Ethernet                        | |
+| **Services**        | Remote Desktop, LM Studio, Node.js server. | |
+
+---
+
 ## Dell Inspiron 3670 - Core Services Provider
 
 | Component           | Specification                           | Description                                               |
@@ -38,14 +53,15 @@ Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level
 
 ## Asus Rog Strix G531GT - Powerhouse 
 
-| Component           | Specification                           | Description                                               |
-| ------------------- | --------------------------------------- | --------------------------------------------------------- |
-| **CPU**             | Intel Core i5-9300H (2.4GHz, 4 cores 8 logical processors) |
-| **RAM**             | 32GB DDR4 (dual-channel)                | Sufficient for running essential services effectively.    |
+| Component           | Specification                           | Description                                                       |
+| ------------------- | --------------------------------------- | ---------------------------------------------------------         |
+| **CPU**             | Intel Core i5-9300H (2.4GHz, 4 cores 8 logical processors) |                                                |
+| **RAM**             | 32GB DDR4 (dual-channel)                | Sufficient for running essential services effectively.            |
 | **Architecture**    | x64                                     | Ensures compatibility with modern operating systems and software. |
 | **Storage**         | 500GB M.2 SSD (bm), SanDisk 2TB external SSD (sm) | Dedicated boot drive and expansive storage for backups and file sharing. |
-| **Graphics Card**   | Intel UHD Graphics 630                  | Provides basic video output for management and troubleshooting. |
-| **Graphics Card 2** | NVIDIA GeForce GTX 1650                 | Provides basic video output for management and troubleshooting. |
-| **Network Adapter** | Wi-Fi & Ethernet                        | Wireless connectivity for flexible placement and redundancy. |
-| **Services**        | Remote Desktop, LM Studio, Node.js server. | Allows for remote connection to the domain | 
+| **Graphics Card**   | Intel UHD Graphics 630                  | Provides basic video output for management and troubleshooting.   |
+| **Graphics Card 2** | NVIDIA GeForce GTX 1650                 | Provides basic video output for management and troubleshooting.   |
+| **Network Adapter** | Wi-Fi & Ethernet                        | Wireless connectivity for flexible placement and redundancy.      |
+| **Services**        | Remote Desktop, LM Studio, Node.js server. | Allows for remote connection to the domain.                     | 
 
+---
