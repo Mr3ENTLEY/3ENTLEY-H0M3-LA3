@@ -2,23 +2,6 @@
 
 Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This document serves as an introduction to the various components that comprise the lab environment. For detailed information on each specific device or service, please refer to the corresponding README file within the relevant device or service directory.
 
-## Services
-
-Each service in the 3ENTLEY-HOME-LAB is designed to simulate an enterprise-level environment, allowing for robust practice, development, and testing. Here's an outline of the primary services and their purposes:
-
-### Active Directory
-
-**Purpose**: The Active Directory (AD) service is the cornerstone of the lab, providing directory services and user management akin to a corporate environment. It is essential for practicing AD administration skills, including group policy, user provisioning, and access control. 
-
-**Benefits**: With AD, experimentation is encouraged, enabling the refinement of skills without the risk associated with production environments, such as data loss or service disruption.
-
-### Node.js
-
-
-### LM Studio
-
-
---- 
 
 # Device Configuration
 
