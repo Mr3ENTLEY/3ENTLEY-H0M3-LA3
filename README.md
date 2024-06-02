@@ -35,3 +35,5 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 | **Display Resolution**        | 1920 x 1080                                                       |
 | **Display Refresh Rate**      | 60 Hz                                                             |
 | **IO Connection**             | HDMI, VGA                                                         | 
+
+---
