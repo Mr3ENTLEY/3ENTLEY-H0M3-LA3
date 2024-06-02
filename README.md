@@ -5,7 +5,7 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 
 # Device Configuration
 
-## Asus Rog G13 - Desktop 
+## Asus Rog G13 - Desktop Computer
 
 | Component           | Specification                                                   | 
 | ------------------- | --------------------------------------------------------------- | 
