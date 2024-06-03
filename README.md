@@ -26,7 +26,7 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 | **Device Name**     | JB-MBP                                                          | 
 | **CPU**             | Apple Silicon M2                                                |
 | **RAM**             | 16 GB                                                           |
-| **Architecture**    | ARM                                                             | 
+| **Architecture**    | Silicon                                                         | 
 | **Storage**         | 512 GB SSD                                                      | 
 | **Network Adapter** | Wi-Fi, Ethernet, & Thunderbolt                                  |
 
