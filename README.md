@@ -8,7 +8,8 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 ## Asus Rog G13 - Desktop Computer
 
 | Component           | Specification                                                   | 
-| ------------------- | --------------------------------------------------------------- | 
+| ------------------- | --------------------------------------------------------------- |
+| **Device Name**     | JB-DPC                                                          |
 | **CPU**             | Intel(R) Core(TM) i5-14400F (2.5 Mhz, 10 cores, 16 processors)  |
 | **RAM**             | 16 GB DDR4 (dual-channel)                                       |
 | **Architecture**    | x64                                                             | 
@@ -18,15 +19,15 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 
 ---
 
-## Apple Macbook Air M2 2023 - Laptop
+## Apple Macbook Pro M2 2023 - Laptop
 
 | Component           | Specification                                                   | 
-| ------------------- | --------------------------------------------------------------- | 
-| **CPU**             | Apple M2                                                        |
+| ------------------- | --------------------------------------------------------------- |
+| **Device Name**     | JB-MBP                                                          | 
+| **CPU**             | Apple Silicon M2                                                |
 | **RAM**             | 16 GB                                                           |
 | **Architecture**    | ARM                                                             | 
-| **Storage**         |                                                                 | 
-| **Graphics Card**   |                                                                 |
+| **Storage**         | 512 GB SSD                                                      | 
 | **Network Adapter** | Wi-Fi, Ethernet, & Thunderbolt                                  |
 
 ---
