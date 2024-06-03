@@ -18,6 +18,19 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 
 ---
 
+## Apple Macbook Air M2 2023 - Laptop
+
+| Component           | Specification                                                   | 
+| ------------------- | --------------------------------------------------------------- | 
+| **CPU**             | Apple M2                                                        |
+| **RAM**             | 16 GB                                                           |
+| **Architecture**    | ARM                                                             | 
+| **Storage**         |                                                                 | 
+| **Graphics Card**   |                                                                 |
+| **Network Adapter** | Wi-Fi, Ethernet, & Thunderbolt                                  |
+
+---
+
 ## Acer Monitor - Desktop Monitor
 | Component                     | Specification                                                     | 
 | ----------------------------- | ----------------------------------------------------------------- | 
@@ -37,3 +50,4 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 | **IO Connection**             | HDMI, VGA                                                         | 
 
 ---
+
