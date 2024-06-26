@@ -15,7 +15,7 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 | **Architecture**    | x64                                                             | 
 | **Storage**         | NVMe WD 953.86 GB (b) & NVMe Micron 476.94 GB (s)               | 
 | **Graphics Card**   | NVIDIA GeForce RTX 3050                                         |
-| **Network Adapter** | Wi-Fi 6E & Ethernet                                             |
+| **Network Adapter** | Wi-Fi 6, Ethernet & Bluetooth                                   |
 
 ---
 
