@@ -15,40 +15,5 @@ Welcome to the comprehensive documentation of the 3ENTLEY-HOME-LAB. This documen
 | **Architecture**    | x64                                                             | 
 | **Storage**         | NVMe WD 953.86 GB (b) & NVMe Micron 476.94 GB (s)               | 
 | **Graphics Card**   | NVIDIA GeForce RTX 3050                                         |
-| **Network Adapter** | Wi-Fi 6, Ethernet & Bluetooth                                   |
 
 ---
-
-## Apple Macbook Pro M2 2023 - Laptop
-
-| Component           | Specification                                                   | 
-| ------------------- | --------------------------------------------------------------- |
-| **Device Name**     | JB-MBP                                                          | 
-| **CPU**             | Apple Silicon M2                                                |
-| **RAM**             | 16 GB                                                           |
-| **Architecture**    | Silicon                                                         | 
-| **Storage**         | 512 GB SSD                                                      | 
-| **Network Adapter** | Wi-Fi, Ethernet, & Thunderbolt                                  |
-
----
-
-## Acer Monitor - Desktop Monitor
-| Component                     | Specification                                                     | 
-| ----------------------------- | ----------------------------------------------------------------- | 
-| **Display Type**              | LCD Screen                                                        |
-| **Display Resolution**        | 1920 x 1080                                                       |
-| **Display Refresh Rate**      | 75 Hz                                                             |
-| **IO Connection**             | HDMI, HDMI2, VGA                                                  | 
-
----
-
-## Dell Monitor - Desktop Monitor
-| Component                     | Specification                                                     | 
-| ----------------------------- | ----------------------------------------------------------------- | 
-| **Display Type**              | LCD Screen                                                        |
-| **Display Resolution**        | 1920 x 1080                                                       |
-| **Display Refresh Rate**      | 60 Hz                                                             |
-| **IO Connection**             | HDMI, VGA                                                         | 
-
----
-
