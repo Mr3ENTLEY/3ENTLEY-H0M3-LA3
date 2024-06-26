@@ -1,7 +1,7 @@
 # Device Configurations
 
 ## JB-DPC
-| Component | Information |
+| Component                   | Details                                                   |
 | --------------------------- | --------------------------------------------------------- |
 | **Device Name**             | JB-DPC                                                    |
 | **CPU**                     | Intel(R) Core(TM) i5-14400F                               |
