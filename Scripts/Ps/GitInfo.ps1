@@ -1,3 +1,8 @@
+# Collects various system information (device name, CPU, RAM, architecture, storage details, and graphics card).
+# Formats this information into a Markdown file.
+# Checks if the device information already exists in the Markdown file and prompts the user for confirmation before overwriting.
+# Updates the Markdown file with the new system information if the user confirms.
+
 # VAR
 $DeviceName = $env:COMPUTERNAME
 $CPU = (Get-WmiObject Win32_Processor).Name
