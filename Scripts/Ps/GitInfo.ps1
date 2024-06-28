@@ -3,6 +3,7 @@ $DeviceName = $env:COMPUTERNAME
 $CPU = (Get-WmiObject Win32_Processor).Name
 $RAM = "Total Installed RAM: $((Get-WmiObject Win32_PhysicalMemory | Measure-Object -Property Capacity -Sum).Sum / 1GB) GB"
 $ARCH = (Get-WmiObject Win32_OperatingSystem).OSArchitecture
+
 # Get storage information for each drive (C:, D:, E:, F:)
 $STOR = Get-WmiObject Win32_LogicalDisk | Where-Object { $_.DriveType -eq 3 } | ForEach-Object {
     "Drive: $($_.DeviceID), Volume Name: $($_.VolumeName), Capacity: $([math]::Round($_.Size / 1GB, 2)) GB"
