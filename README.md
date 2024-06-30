@@ -1,7 +1,8 @@
 # Device Configurations
 
 ## JB-DPC
-
+| Component                   | Description |
+| --------------------------- | ------------------------------------------------------------- |
 | Device Name                 | JB-DPC |
 | CPU                         | Intel(R) Core(TM) i5-14400F |
 | RAM                         | Total Installed RAM: 16 GB |
